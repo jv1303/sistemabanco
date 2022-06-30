@@ -1,0 +1,12 @@
+{
+    "name": "sistemabanco",
+    "version": "1.0.0",
+    "description": "Sistema de um banco",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "author": "João Victor Serafim da Silva",
+    "license": "ISC",
+    "type": "module"
+}
