@@ -19,7 +19,7 @@ clientes.push(new Cliente({
 
 clientes.push(new Cliente({
     nome : "Henrique Cardoso",
-    dataNascimento: "26/08/1982",
+    dataNascimento: "26/06/1982",
     cpf: 16518487403,
     rg: 749826146,
     email: "henriquecardreidelas@gmail.com",
